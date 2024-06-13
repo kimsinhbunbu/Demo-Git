@@ -1,7 +1,7 @@
 a = "sinh";
 x = 3
 if x ==2
-   puts "x is greater than 2"
+   puts "x is greater than 2!"
 end
 
 for i in 0..5
