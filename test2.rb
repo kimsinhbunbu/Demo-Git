@@ -28,3 +28,4 @@
 # sinh = Customer.new(2, "sinh", "ha noi")
 # puts(sinh.cust_name)
 # sinh.sayGetting()
+lsds= "sá"
