@@ -29,4 +29,4 @@ puts(str.reverse())
 puts("sinh #{str}")
 puts(str.split(' '))
 puts str.reverse
-sdsdd
+sdsddxx
